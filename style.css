@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgba(161, 158, 158, 0.256);
+}
+
+.heading{
+    font-size: 2rem;
+}
+
+.fa-cc-visa{
+    color: purple;
+}
+
+.fa-cc-amazon-pay{
+    color: rgba(254, 254, 2, 0.674);
+}
+
+.fa-cc-paypal{
+    color: rgb(28, 28, 234);
+}
+
+.fa-cc-stripe{
+    color: red;
+}
+
+.form-control {
+    border-radius: 0;
+}
+
+.btn{
+    border-radius: 0!important;
+    background-color: #3a3a3b;
+}
+
+.form-check-input{
+    border-radius: 0!important;
+}
